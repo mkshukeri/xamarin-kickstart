@@ -1,0 +1,14 @@
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/obj/Debug/XamarinKickStart.App.xaml
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/obj/Debug/XamarinKickStart.XamarinKickStartPage.xaml
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/obj/Debug/XamarinKickStart.Modules.LoginPage.xaml
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/obj/Debug/XamarinKickStart.App.xaml.g.cs
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/obj/Debug/XamarinKickStart.XamarinKickStartPage.xaml.g.cs
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/obj/Debug/XamarinKickStart.Modules.LoginPage.xaml.g.cs
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/bin/Debug/XamarinKickStart.dll.mdb
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/bin/Debug/XamarinKickStart.dll
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/obj/Debug/XamarinKickStart.dll
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/obj/Debug/XamarinKickStart.dll.mdb
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/bin/Debug/Xamarin.Forms.Core.dll
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/bin/Debug/Xamarin.Forms.Xaml.dll
