@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{796083B6-8E37-4E40-9135-060A46AB1234}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinKickStart.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0D6C65DF-5941-44FB-88A1-FB2261FFCDD8" />
+  <MultiItemStartupConfigurations />
+</Properties>
