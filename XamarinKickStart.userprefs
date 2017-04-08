@@ -1,5 +1,13 @@
 ﻿<Properties StartupConfiguration="{796083B6-8E37-4E40-9135-060A46AB1234}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinKickStart/XamarinKickStart.csproj">
+    <Files>
+      <File FileName="XamarinKickStart/Modules/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="XamarinKickStart/Modules/LoginPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinKickStart/App.xaml" Line="1" Column="1" />
+      <File FileName="XamarinKickStart/App.xaml.cs" Line="11" Column="39" />
+      <File FileName="XamarinKickStart/XamarinKickStart.csproj" Line="21" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

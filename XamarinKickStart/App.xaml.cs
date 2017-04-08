@@ -8,7 +8,7 @@ namespace XamarinKickStart
 		{
 			InitializeComponent();
 
-			MainPage = new XamarinKickStartPage();
+			MainPage = new LoginPage();
 		}
 
 		protected override void OnStart()
