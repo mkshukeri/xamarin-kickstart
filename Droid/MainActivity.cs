@@ -7,6 +7,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using PushNotification.Plugin;
 
 namespace XamarinKickStart.Droid
 {
@@ -22,7 +23,15 @@ namespace XamarinKickStart.Droid
 
 			global::Xamarin.Forms.Forms.Init(this, bundle);
 
+			CrossPushNotification.Initialize<CrossPushNotificationListener>("<ANDROID SENDER ID>");
+			//...
+
+
 			LoadApplication(new App());
+
+
 		}
+
+
 	}
 }

@@ -11,7 +11,7 @@
 namespace XamarinKickStart {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/developer/Git/xamarin-kickstart/xamarin-kickstart/XamarinKickStart/App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinKickStart.SelectAddrPage">
+	<ContentPage.Content>
+		<StackLayout>
+			<Label Text="Choose your address?" />
+			<ListView x:Name="listAddressList" HasUnevenRows="true" ItemSelected="Address_selected">
+				<ListView.ItemTemplate>
+					<DataTemplate>
+						<ViewCell>
+							<StackLayout>
+								
+								<Label Text="{Binding GPScoordinate}" />
+								<Label Text="{Binding AddressName}" />
+								<Label Text="{Binding AddressDetails}" />
+
+							</StackLayout>
+						</ViewCell>
+					</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+
+			<!--TODO: add input new address and gps. toolbar or button? -->
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
+using PushNotification.Plugin;
 using UIKit;
 
 namespace XamarinKickStart.iOS
@@ -16,7 +17,12 @@ namespace XamarinKickStart.iOS
 
 			LoadApplication(new App());
 
+			CrossPushNotification.Initialize<CrossPushNotificationListener>();
+
 			return base.FinishedLaunching(app, options);
 		}
+
 	}
+
+
 }

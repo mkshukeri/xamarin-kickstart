@@ -11,7 +11,7 @@
 namespace XamarinKickStart {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/shukeri/Git/xamarin-kickstart/XamarinKickStart/Modules/LoginPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/developer/Git/xamarin-kickstart/xamarin-kickstart/XamarinKickStart/Modules/LoginPage.xaml")]
     public partial class LoginPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

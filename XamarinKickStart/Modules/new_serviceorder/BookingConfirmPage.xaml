@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	x:Class="XamarinKickStart.BookingConfirmPage"
+
+	>
+	<ContentPage.Content>
+		<StackLayout>
+
+			<Label Text="Please confirm your booking" />
+
+			<StackLayout Orientation="Horizontal">
+				<Image Source="http://lorempixel.com/200/200/people/1" />
+				<StackLayout>
+					<Label Text="Helper Name" />
+					<Label Text="Ali" />
+					<Label Text="Service" />
+					<Label Text="Plumber" />
+				</StackLayout>
+			</StackLayout>
+
+			<StackLayout Orientation="Horizontal">
+				<StackLayout>
+					<Label Text="Date" />
+					<Label Text="1 Jan 2017" />
+				</StackLayout>
+
+				<StackLayout>
+					<Label Text="Time" />
+					<Label Text="1.00PM-2.00PM" />
+				</StackLayout>
+
+
+				
+			</StackLayout>
+			<StackLayout>
+					<Label Text="Details about the job:" />
+					<Editor Text="orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate" />
+					<Label Text="Total Cost" />
+					<Label Text="RM 50" />
+
+				</StackLayout>
+			
+			<Label Text="Disclaimer bla bla onsectetuer adipiscing elit. Aenean commodo ligula eget dolo " />
+			<Button Text="Pay" />
+			<Button Text="Back" />
+			<Button Text="Cancel" />
+			
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

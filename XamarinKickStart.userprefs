@@ -1,14 +1,30 @@
 ﻿<Properties StartupConfiguration="{796083B6-8E37-4E40-9135-060A46AB1234}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinKickStart/Modules/NewUserRegistrationPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinKickStart/Modules/helper_rating/ViewHelperRatingPage.xaml">
     <Files>
-      <File FileName="XamarinKickStart/Modules/LoginPage.xaml" Line="8" Column="1" />
-      <File FileName="XamarinKickStart/Modules/LoginPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="XamarinKickStart/App.xaml" Line="7" Column="1" />
-      <File FileName="XamarinKickStart/App.xaml.cs" Line="11" Column="31" />
-      <File FileName="XamarinKickStart/XamarinKickStart.csproj" Line="1" Column="1" />
-      <File FileName="XamarinKickStart/Modules/NewUserRegistrationPage.xaml" Line="6" Column="1" />
-      <File FileName="XamarinKickStart/Modules/NewUserRegistrationPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinKickStart/Modules/new_serviceorder/SelectAddrPage.xaml" Line="25" Column="15" />
+      <File FileName="XamarinKickStart/Modules/new_serviceorder/SelectAddrPage.xaml.cs" Line="8" Column="37" />
+      <File FileName="XamarinKickStart/Modules/new_serviceorder/SelectDateTimePage.xaml" Line="37" Column="15" />
+      <File FileName="XamarinKickStart/Modules/reuseable_controls/SelectAddressView.xaml" Line="18" Column="15" />
+      <File FileName="XamarinKickStart/Modules/reuseable_controls/SelectAddressView.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinKickStart/Modules/helper_rating/ViewHelperRatingPage.xaml" Line="19" Column="15" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinKickStart" expanded="True">
+            <Node name="XamarinKickStart" expanded="True">
+              <Node name="Modules" expanded="True">
+                <Node name="new_serviceorder" expanded="True" />
+                <Node name="reuseable_controls" expanded="True" />
+                <Node name="user_registration" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="XamarinKickStart.Droid" expanded="True" />
+            <Node name="XamarinKickStart.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -16,5 +32,6 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.XamarinKickStart.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.67CE8408-6D0B-49C8-87D8-741C54277690" />
+  <MonoDevelop.Ide.ItemProperties.XamarinKickStart.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
   <MultiItemStartupConfigurations />
 </Properties>

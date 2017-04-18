@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:local="XamarinKickStart"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinKickStart.ViewHelperRatingPage">
+	<ContentPage.Content>
+		<StackLayout Orientation="Horizontal">
+			<Image Source="http://lorempixel.com/200/200/people/1" />
+			<StackLayout>
+				<Label Text="Helper Name" />
+				<Label Text="Ali" />
+				<Label Text="Service" />
+				<Label Text="Plumber" />
+
+			</StackLayout>
+			<!--<local:RatingStarts/>-->
+		</StackLayout>
+		
+	</ContentPage.Content>
+</ContentPage>
